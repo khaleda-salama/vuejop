@@ -1,38 +1,26 @@
-# learn Vue
+# Vue Jobs
 
-This template should help get you started developing with Vue 3 in Vite.
+A job management web application built with **Vue.js**. The project demonstrates how to build a single-page application (SPA) with Vue.js, including page navigation, reusable components, API integration, and CRUD operations.
 
-## Recommended IDE Setup
+### Features
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+* View job details
+* Add new jobs
+* Edit existing jobs
+* Delete jobs
+* Navigate between pages using **Vue Router**
+* Fetch and manage job data using **Axios**
+* Display loading states and notifications
+* Reusable Vue components
+* Responsive UI with **Tailwind CSS**
 
-## Recommended Browser Setup
+### Technologies
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+* Vue.js 3
+* Vue Router
+* Axios
+* Tailwind CSS
+* Vite
+* Vue Toastification
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+This project was built as a practical Vue.js learning project to understand component-based development, routing, API requests, and CRUD operations in a Single Page Application.
